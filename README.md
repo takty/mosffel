@@ -61,4 +61,4 @@ The copyright for the **Mosffel** font belongs to **Takuto Yanagida**.
 
 ## Changelog
 
-- **Version 1.0** - Initial release (Sep. 2, 2024)
+- **Version 1.0** - Initial release (Sep. 5, 2024)
